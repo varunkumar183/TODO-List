@@ -33,6 +33,3 @@ The To-Do List application is a simple, user-friendly web app that allows users 
 - Adding an empty task triggers an error message that disappears after 2 seconds.
 - The app re-renders the task list every time a task is added, completed, or deleted to reflect the current state.
 - The design is clean and responsive within a centered container for ease of use.
-
-## Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to create an issue or submit a pull request.
